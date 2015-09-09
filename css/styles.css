@@ -1,7 +1,21 @@
-body {
-	font-family: arial;
+body {	font-family: arial;
 	background-color: rgb(185,179,175);}
-h1 {
-	color: rgb(255,255,255);}
 
-h1 {color: grey;}
+h1 {	color: rgb(255,255,255);
+	background-color: grey;
+	font-size: 400%;
+	text-decoration: underline;
+	text-align: center;}
+
+h2 { 	color: white;
+	background-color: grey; 
+	font-size: 200%;
+	text-align: center;}
+
+.Woods:{color: blue;}
+
+
+
+
+
+
