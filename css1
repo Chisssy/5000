@@ -1,9 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Good Dream Propaganda</title>
+<style type="text/css">
 body {width: 800px;
 color: grey;}
-
 p{width: 225px;
   float: left;
   margin:5px;
   padding: 5px;
-  background-color: grey;
+  background-color: grey;}
+h1 {border-width: 15px;}
+h1 {border-style: dashed;}
+h4 {border-width: 30px};
+h2 {border-style: dotted;}
+h5 {border-width: 30px}
+h3 {border-style: double;}
+h4 {border-style: inset;}
+h5 {border-style: ridge;}
+h6 {border-style: outset;}
+
 .clear {clear: left;}
+</style>
+</head>
+<body>
+Counting Sheep
+<h1>1</h1>
+<h2>2</h2>
+<h3>3</h3><h4>4</h4><h5>5</h5><h6>6</h6>
+
+</body>
+</html>
